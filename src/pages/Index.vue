@@ -87,19 +87,19 @@
               </h3>
               <p>
                 Premier point : l'écriture. Comme tout logiciel d'aide à l'écriture,
-                Grimoire propose un éditeur de texte complet et adapaté.
-                Sont intégré directement dans le logiciel, un dictionnaire permettant de retrouver
-                vos mots perdus ainsi que d'un système de commentaire pour ne rien oublier!
-                Besoin de concentrer ? Le mode focus est là pour vous aider. Affichez votre document
+                Grimoire propose un éditeur de texte complet et adapté.
+                Sont intégrés directement dans le logiciel, un dictionnaire permettant de retrouver
+                vos mots perdus ainsi que d'un système de commentaires pour ne rien oublier!
+                Besoin de se concentrer ? Le mode focus est là pour vous aider: affichez votre document
                 en cours en plein écran et retirez l'accès à toutes les fonctionnalités pour vous concentrer sur l'essentiel.
               </p>
               <p>
-                Notre deuxième point est l'organisation. Grâce à Grimoire terminé l'utilisation
-                de dizaines d'applications en simultané ! Retrouvez dans le logiciel une fonction "Fiche personnage" où il sera
+                Notre deuxième point est l'organisation. Grâce à Grimoire, terminé l'utilisation
+                de dizaines d'applications en simultané ! Retrouvez par exemple dans le logiciel une fonction "Fiche personnage" où il sera
                 possible de créer et développer les protagonistes de vos histoires
               </p>
               <p>
-                Le troisième et dernier point est la simplicité. En effet Grimoire se veut simple d'utilisation afin de permettre au écrivain confirmé comme débutant
+                Le troisième et dernier point est la simplicité. En effet Grimoire se veut simple d'utilisation afin de permettre aux écrivains confirmés comme débutants
                 de se lancer dans l'aventure qu'est l'écriture ! Avec son design simple, et personnalisable, organisez vous facilement et travaillez plus efficacement.
               </p>
             </div>
