@@ -47,8 +47,8 @@
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">Qu'est-ce-que Grimoire?</h2>
             <h5 class="description">
-              Grimoire est un logiciel d'aide à la rédaction de romain pour écrivain débutant et confirmé.
-              Notre Logiciel se base sur trois grands piliers. L'écriture, pour pouvoir rédiger vos histoires quand vous voulez et où vous voulez.
+              Grimoire est un logiciel d'aide à la rédaction de roman pour écrivain débutant et confirmé.
+              Notre logiciel se base sur trois grands piliers. L'écriture, pour pouvoir rédiger vos histoires quand vous voulez et où vous voulez.
               L'organisation, pour ne perdre aucune bonne idée et pour se retrouver dans les histoires complexes.
               Et la simplicité, car l'écriture ne doit pas être sorcier.
             </h5>
