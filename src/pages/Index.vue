@@ -229,13 +229,13 @@
       </div>
 
       <div class="text-center">
-        <a href="#pablo" class="btn btn-primary btn-icon btn-round" target="_blank">
+        <a href="https://www.facebook.com/GrimoireFr" class="btn btn-primary btn-icon btn-round" target="_blank">
           <i class="fab fa-facebook-square"></i>
         </a>
-        <a href="#pablo" class="btn btn-primary btn-icon btn-round" target="_blank">
-          <i class="fab fa-twitter"></i>
+        <a href="https://www.instagram.com/projet_grimoire" class="btn btn-primary btn-icon btn-round" target="_blank">
+          <i class="fab fa-instagram"></i>
         </a>
-        <a href="#pablo" class="btn btn-primary btn-icon btn-round" target="_blank">
+        <a href="https://www.linkedin.com/company/grimoire/" class="btn btn-primary btn-icon btn-round" target="_blank">
           <i class="fab fa-linkedin"></i>
         </a>
       </div>

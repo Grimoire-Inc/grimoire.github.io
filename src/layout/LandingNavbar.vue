@@ -23,9 +23,9 @@
           rel="tooltip"
           title="Follow us on Twitter"
           data-placement="bottom"
-          href=""
+          href="https://www.linkedin.com/company/grimoire/"
         >
-          <i class="fab fa-twitter"></i>
+          <i class="fab fa-linkedin"></i>
           <p class="d-lg-none d-xl-none">Twitter</p>
         </a>
       </li>
