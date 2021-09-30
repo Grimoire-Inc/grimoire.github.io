@@ -9,7 +9,7 @@
       <div class="content-center">
         <div class="container">
           <div class="content-center brand">
-            <img class="n-logo" src="img/grimoire.png" alt="" />
+            <img class="n-logo" src="img/grimoire.png" alt="Logo du logiciel Grimoire" />
             <h1 class="h1-seo">Grimoire</h1>
             <h3>Écrire devient un jeu d'enfant.</h3>
           </div>
@@ -17,7 +17,7 @@
       </div>
     </div>
 
-    <h1 class="coming-soon">Coming Soon</h1>
+    <p class="coming-soon">Coming Soon</p>
 
 
     <!-- Container avec les écrans + logos -->
@@ -27,13 +27,13 @@
           <div class="row">
             <div class="col-md-12">
               <div class="hero-images-container" style="margin-top: -27vh">
-                <img src="img/ordi.png" alt="" />
+                <img src="img/ordi.png" alt="Ordinateur avec le logiciel Grimoire" />
               </div>
               <div class="hero-images-container-1">
-                <img src="img/grimoire.png" alt="" />
+                <img src="img/grimoire.png" alt="Logo du logiciel Grimoire" />
               </div>
               <div class="hero-images-container-2">
-                <img src="img/mobile.png" alt="" />
+                <img src="img/mobile.png" alt="Smartphone avec l'application Grimoire" />
               </div>
             </div>
           </div>
@@ -82,9 +82,9 @@
                 class="image-container image-right"
                 style="background-image: url('img/mo3.png')"
               ></div>
-              <h3>
+              <p style="font-size: 25px">
                 Vous avez dit trois piliers ?
-              </h3>
+              </p>
               <p>
                 Premier point : l'écriture. Comme tout logiciel d'aide à l'écriture,
                 Grimoire propose un éditeur de texte complet et adapté.
@@ -111,7 +111,7 @@
 
     <div class="section section-team text-center">
       <div class="container">
-        <h2 class="title">Qui sommes nous?</h2>
+        <p class="title" style="font-size: 25px">Qui sommes nous?</p>
         <p class="description">Ecrivains et lecteurs, Grimoire est une équipe de six étudiants passionnés de littérature et d'informatique.</p>
       <div
         class="image-container"
@@ -123,7 +123,7 @@
               <div class="team-player">
                 <img
                   src="img/Arthur.jpg"
-                  alt="Thumbnail Image"
+                  alt="Photo de profil du membre Arthur de l'équipe Grimoire"
                   class="rounded-circle img-fluid img-raised"
                 />
                 <h4 class="title">Arthur</h4>
@@ -139,7 +139,7 @@
               <div class="team-player">
                 <img
                   src="img/Lucas.jpg"
-                  alt="Thumbnail Image"
+                  alt="Photo de profil du membre Lucas de l'équipe Grimoire"
                   class="rounded-circle img-fluid img-raised"
                 />
                 <h4 class="title">Lucas</h4>
@@ -155,7 +155,7 @@
               <div class="team-player">
                 <img
                   src="img/Dylan.jpg"
-                  alt="Thumbnail Image"
+                  alt="Photo de profil du membre Dylan de l'équipe Grimoire"
                   class="rounded-circle img-fluid img-raised"
                 />
                 <h4 class="title">Dylan</h4>
@@ -171,7 +171,7 @@
               <div class="team-player">
                 <img
                   src="img/Julie.jpg"
-                  alt="Thumbnail Image"
+                  alt="Photo de profil du membre Julie de l'équipe Grimoire"
                   class="rounded-circle img-fluid img-raised"
                 />
                 <h4 class="title">Julie</h4>
@@ -187,7 +187,7 @@
               <div class="team-player">
                 <img
                   src="img/Matteo.jpg"
-                  alt="Thumbnail Image"
+                  alt="Photo de profil du membre Matteo de l'équipe Grimoire"
                   class="rounded-circle img-fluid img-raised"
                 />
                 <h4 class="title">Mattéo</h4>
@@ -203,7 +203,7 @@
               <div class="team-player">
                 <img
                   src="img/Elian.jpg"
-                  alt="Thumbnail Image"
+                  alt="Photo de profil du membre Ellian de l'équipe Grimoire"
                   class="rounded-circle img-fluid img-raised"
                 />
                 <h4 class="title">Elian</h4>
@@ -222,8 +222,8 @@
     <div
       class="section" style="background-image: url('img/livre2.jpg'); background-size: cover; background-position: top center">
 
-      <div class="container" style="background-color: #ffca44; width: 30%; padding: 40px; padding-bottom: 15px">
-        <h2 class="title text-center"  style="color: white">Besoin de nous contacter?</h2>
+      <div class="container" style="background-color: #2c2c2c; width: 30%; padding: 40px; padding-bottom: 15px">
+        <p class="title text-center"  style="color: white; font-size: 30px">Besoin de nous contacter?</p>
         <p class="text-center" style="color: white">Une question, une suggestion ou juste envie d'échanger ? N'hésitez pas à nous envoyer un mail sur
           grimoire-team@outlook.com ou un message sur nos réseaux sociaux!</p>
       </div>
