@@ -46,12 +46,12 @@
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">Qu'est-ce-que Grimoire?</h2>
-            <h5 class="description">
+            <p class="description">
               Grimoire est un logiciel d'aide à la rédaction de roman pour écrivain débutant et confirmé.
               Notre logiciel se base sur trois grands piliers. L'écriture, pour pouvoir rédiger vos histoires quand vous voulez et où vous voulez.
               L'organisation, pour ne perdre aucune bonne idée et pour se retrouver dans les histoires complexes.
               Et la simplicité, car l'écriture ne doit pas être sorcier.
-            </h5>
+            </p>
           </div>
         </div>
         <div class="separator separator-primary"></div>
@@ -60,10 +60,11 @@
             <div class="col-md-6">
               <div
                 class="image-container image-left"
-                style="background-image: url('img/mo1.png')"
+
               >
+              <img class="image-left" src="img/mo1.png" />
                 <!-- First image on the left side -->
-                <p class="blockquote blockquote-primary">
+                <p class="blockquote">
                   "There is no friend as loyal as a book."
                   <br />
                   <br />
@@ -71,17 +72,24 @@
                 </p>
               </div>
               <!-- Second image on the left side of the article -->
-              <div
+
+              <!-- <div
                 class="image-container"
                 style="background-image: url('img/mo2.png')"
-              ></div>
+              ></div> -->
+
+              <img src="img/mo2.png" class="image-container" alt="" />
+
             </div>
             <div class="col-md-5" style="text-align: justify">
               <!-- First image on the right side, above the article -->
-              <div
+              <!-- <div
                 class="image-container image-right"
                 style="background-image: url('img/mo3.png')"
-              ></div>
+              ></div> -->
+              <img src="img/mo3.png" class="image-container image-right" alt="" />
+
+
               <p style="font-size: 25px">
                 Vous avez dit trois piliers ?
               </p>
@@ -113,13 +121,12 @@
       <div class="container">
         <p class="title" style="font-size: 25px">Qui sommes nous?</p>
         <p class="description">Ecrivains et lecteurs, Grimoire est une équipe de six étudiants passionnés de littérature et d'informatique.</p>
-      <div
-        class="image-container"
-        style="height: 500px; background-image: url('img/groupe.jpg'); background-size: cover;"
-      ></div>
+
+        <img src="img/groupe.jpg" class="group-photo" alt="photo de groupe de l'équipe grimoire" />
+
         <div class="team" style="padding-top: 50px">
           <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-2 small-img">
               <div class="team-player">
                 <img
                   src="img/Arthur.jpg"
@@ -135,7 +142,7 @@
                 ></a>
               </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 small-img">
               <div class="team-player">
                 <img
                   src="img/Lucas.jpg"
@@ -151,7 +158,7 @@
                 ></a>
               </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 small-img">
               <div class="team-player">
                 <img
                   src="img/Dylan.jpg"
@@ -167,7 +174,7 @@
                 ></a>
               </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 small-img">
               <div class="team-player">
                 <img
                   src="img/Julie.jpg"
@@ -183,7 +190,7 @@
                 ></a>
               </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 small-img">
               <div class="team-player">
                 <img
                   src="img/Matteo.jpg"
@@ -199,7 +206,7 @@
                 ></a>
               </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 small-img">
               <div class="team-player">
                 <img
                   src="img/Elian.jpg"
@@ -226,19 +233,19 @@
         <p class="title text-center"  style="color: white; font-size: 30px">Besoin de nous contacter?</p>
         <p class="text-center" style="color: white">Une question, une suggestion ou juste envie d'échanger ? N'hésitez pas à nous envoyer un mail sur
           grimoire-team@outlook.com ou un message sur nos réseaux sociaux!</p>
+          <div class="text-center">
+            <a href="https://www.facebook.com/GrimoireFr" class="btn btn-primary btn-icon btn-round" target="_blank">
+              <i class="fab fa-facebook-square"></i>
+            </a>
+            <a href="https://www.instagram.com/projet_grimoire" class="btn btn-primary btn-icon btn-round" target="_blank">
+              <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/grimoire/" class="btn btn-primary btn-icon btn-round" target="_blank">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </div>
       </div>
 
-      <div class="text-center">
-        <a href="https://www.facebook.com/GrimoireFr" class="btn btn-primary btn-icon btn-round" target="_blank">
-          <i class="fab fa-facebook-square"></i>
-        </a>
-        <a href="https://www.instagram.com/projet_grimoire" class="btn btn-primary btn-icon btn-round" target="_blank">
-          <i class="fab fa-instagram"></i>
-        </a>
-        <a href="https://www.linkedin.com/company/grimoire/" class="btn btn-primary btn-icon btn-round" target="_blank">
-          <i class="fab fa-linkedin"></i>
-        </a>
-      </div>
     </div>
 
 

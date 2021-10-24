@@ -5,7 +5,7 @@
     :data-background-color="backgroundColor"
   >
     <div class="container">
-      <div class="copyright">
+      <div class="text-center">
         &copy; {{ year }}, Grimoire.
       </div>
     </div>

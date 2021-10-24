@@ -79,4 +79,10 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+
+  a.navbar-brand.active.router-link-active {
+      font-size: 2em;
+  }
+  
+</style>
